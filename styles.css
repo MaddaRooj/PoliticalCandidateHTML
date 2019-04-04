@@ -1,7 +1,41 @@
-.article section_bio {
-    align-items: center;
+.article_section_commitees {
+    background-color: blue;
 }
 
-.article {
-    background-color: blue;
+.article_section_legislation {
+    background-color: purple;
+}
+
+#photo {
+    border: 20px goldenrod solid;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 50%;
+}
+
+#name {
+    font-size: 35px;
+    color: gold;
+    display: flex;
+    font-weight: bold;
+    justify-content: center;
+    border: 5px solid gold;
+    padding: 30px;
+    justify-self: center;
+}
+
+#districtInfo {
+    display: flex;
+    border: 3px blue solid;
+    padding: 50px;
+    justify-content: center;
+}
+
+#politicalAffiliations {
+    display: flex;
+    border: 3px green solid;
+    padding: 50px;
+    justify-content: center;
 }
