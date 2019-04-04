@@ -1,0 +1,35 @@
+#photo {
+    border: 20px goldenrod solid;
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+}
+
+#name {
+    display: flex;
+    border: 8px solid blue;
+    padding: 40px;
+    justify-content: center;
+}
+
+#districtInfo {
+    display: flex;
+    border: 8px solid red;
+    padding: 40px;
+    justify-content: center;
+}
+
+#politicalAffiliations {
+    border: 8px solid green;
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.article_section_commitees {
+    border: 3px solid black;
+}
+
+.article_section_legislation {
+    border: 3px solid purple;
+}
